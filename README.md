@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend web developer from Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nar3sh-dotcom&label=Profile%20views&colo alt="nar3sh-dotcom" /> </p>
-Hi,I'm Naresh Rajbanshi, Web designer who is exploring Frontend Development while enhancing user experience with my design skills.
+Hi,I'm <i>Naresh Rajbanshi</i>, Web designer who is exploring Frontend Development while enhancing user experience with my design skills.
 
 I have great interest in collaborating and working with others to solve real-world issues.I believe that with new and innovative designs along with digital technologies we can resolve user-centric problems which are fruitful towards the progress of society. 
 
