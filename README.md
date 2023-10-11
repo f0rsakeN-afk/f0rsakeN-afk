@@ -1,5 +1,5 @@
 
-![logo](https://github.com/nar3sh-dotcom/Naresh-Rajbanshi/blob/main/331686812_1390431441703473_648409220034299026_n.jpg)
+
 <h1 align="center">Hi 👋, I'm Naresh Rajbanshi</h1>
 <h3 align="center">A passionate frontend web developer from Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
