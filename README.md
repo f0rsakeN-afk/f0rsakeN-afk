@@ -12,7 +12,7 @@ Hi,I'm <i>Naresh Rajbanshi</i>, Web designer who is exploring Frontend Developme
 I have great interest in collaborating and working with others to solve real-world issues.I believe that with new and innovative designs along with digital technologies we can resolve user-centric problems which are fruitful towards the progress of society. 
 
 
-- 🌱 I’m currently learning **Reactjs, Nextjs**
+- 🌱 I’m currently learning **Typescript, Nextjs**
 
 - 📫 How to reach me **Nar3sh0@gmail.com**
 
