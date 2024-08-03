@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Typescript, Nextjs**
 
-- 📫 How to reach me **Nareshwork13.com**
+- 📫 How to reach me **Nareshwork13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
