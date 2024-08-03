@@ -1,15 +1,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Naresh Rajbanshi</h1>
-<h3 align="center">A passionate frontend web developer from Nepal</h3>
+<h3 align="center">A passionate MERN developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f0rsakeN-afk&label=Profile%20views&color=0e75b6&style=flat" alt="nightcrawl3r-hash" /> </p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 
-Hi,I'm <i>Naresh Rajbanshi</i>, Web designer who is exploring Frontend Development while enhancing user experience with my design skills.
 
-I have great interest in collaborating and working with others to solve real-world issues.I believe that with new and innovative designs along with digital technologies we can resolve user-centric problems which are fruitful towards the progress of society. 
 
 
 - 🌱 I’m currently learning **Typescript, Nextjs**
