@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Naresh Rajbanshi 👋</h1>
-<h3 align="center">A Passionate MERN Stack Developer from Nepal 🇳🇵</h3>
+<h3 align="center">A MERN Stack Developer from Nepal 🇳🇵</h3>
 <h4 align="center">Specializing in Backend Development</h4>
 
 <p align="center">
