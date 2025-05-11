@@ -3,7 +3,7 @@
 <h4 align="center">Specializing in Backend Development</h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=f0rsakeN-afk&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=f0rsakeN-afk&label=👀%20Visitors&color=ff69b4&style=for-the-badge" alt="profile views" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 - 💻 I'm a full-stack developer with a strong focus on backend technologies
 - 🔧 Experienced in building robust and scalable server-side applications
-- 🌱 Currently enhancing my skills in **TypeScript** and **Nest.js**
+- 🌱 Currently enhancing my skills in **TypeScript** and **Next**
 - 🎯 Passionate about creating efficient APIs and optimizing database performance
 - 🔍 Always exploring new backend technologies and best practices
 
@@ -26,12 +26,12 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
- <!--  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <!-- <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" /> -->
 </p>
 
 
@@ -51,6 +51,14 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=f0rsakeN-afk&theme=radical" alt="GitHub Streak" />
 </div>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=f0rsakeN-afk&bg_color=0d1117&color=58a6ff&line=4caf50&point=1db954&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+
+
 
 <h2>🤝 Connect with Me</h2>
 
