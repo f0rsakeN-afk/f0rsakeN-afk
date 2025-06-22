@@ -8,7 +8,7 @@
 
 <h2>🚀 About Me</h2>
 
-- 💻 I'm a full-stack developer with a strong focus on backend technologies
+- 💻 I'm a MERN developer with a strong focus on backend technologies
 - 🔧 Experienced in building robust and scalable server-side applications
 - 🌱 Currently enhancing my skills in **Go** and **Next**
 - 🎯 Passionate about creating efficient APIs and optimizing database performance
