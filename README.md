@@ -41,22 +41,6 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=f0rsakeN-afk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=f0rsakeN-afk&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=f0rsakeN-afk&theme=radical" alt="GitHub Streak" />
-</div>
-
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=f0rsakeN-afk&bg_color=0d1117&color=58a6ff&line=4caf50&point=1db954&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
