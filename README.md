@@ -1,18 +1,14 @@
-<h1 align="center">Hi there, I'm Naresh Rajbanshi 👋</h1>
-<h3 align="center">A MERN Stack Developer from Nepal 🇳🇵</h3>
-<h4 align="center">Specializing in Backend Development</h4>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=f0rsakeN-afk&label=👀%20Visitors&color=ff69b4&style=for-the-badge" alt="profile views" />
 </p>
 
 <h2>🚀 About Me</h2>
 
-- 💻 I'm a MERN developer with a strong focus on backend technologies
-- 🔧 Experienced in building robust and scalable server-side applications
-- 🌱 Currently enhancing my skills in **Go** and **Next**
+- 💻 Full Stack Developer with strong frontend + backend expertise
+- ⚙️ Specialized in building scalable APIs using Node.js & FastAPI
+- 🧠 Exploring AI integrations using LangChain & LLMs
 - 🎯 Passionate about creating efficient APIs and optimizing database performance
-- 🔍 Always exploring new backend technologies and best practices
+- 🔍 Constantly learning and building production-ready applications
 
 <h2>🛠️ My Tech Stack</h2>
 
@@ -28,7 +24,9 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" />
