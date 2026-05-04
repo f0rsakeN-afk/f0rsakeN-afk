@@ -6,7 +6,7 @@
 
 - 💻 Full Stack Developer with strong frontend + backend expertise
 - ⚙️ Specialized in building scalable APIs using Node.js & FastAPI
-- 🧠 Exploring AI integrations using LangChain & LLMs
+- 🧠 Exploring AI integrations using LangChain & FastAPI
 - 🎯 Passionate about creating efficient APIs and optimizing database performance
 - 🔍 Constantly learning and building production-ready applications
 
