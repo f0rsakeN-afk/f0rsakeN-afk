@@ -36,21 +36,21 @@
 </p>
 
 
+<!-- 
+
 
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=f0rsakeN-afk&bg_color=0d1117&color=58a6ff&line=4caf50&point=1db954&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-
+-->
 <div align="center">
+  
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=f0rsakeN-afk&show_icons=true&theme=vue-dark&hide_border=true&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=f0rsakeN-afk&theme=vue-dark&hide_border=true"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=f0rsakeN-afk&theme=github_dark" alt="Profile details badge"/>
 
 </div>
-
-
 
 <h2>🤝 Connect with Me</h2>
 
